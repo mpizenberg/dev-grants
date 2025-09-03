@@ -4,7 +4,7 @@ Ideas for developer grants, that came up while participating/reviewing in other 
 
 ## Founding entity demultiplier
 
-Anyone is free to finance funding to the grant, and founding entity could match the public funding.
+Anyone is free to participate in funding the grant, and founding entity could match the public funding.
 For example, IO or Emurgo or CF offers to match 2x the public funds, up to 2M ada or something.
 So if public provides 100k, that entity provides 200k, for a total of 300k in the funds to be distributed.
 
