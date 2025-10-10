@@ -44,6 +44,11 @@ Such incentivization, in addition to public pressure of viewing NO votes should 
 DReps votes could either be public directly, or follow a commit-reveal dual step revealing decisions only after the snapshot date.
 DReps can also re-delegate their own voting power to other DReps of their choosing.
 
+## Funding intentions
+
+The intention of the fund must be reflected in its structure.
+For example, if we want to incentivize new teams to build on Cardano, there could be a rule that at least 20% of distributed funds go to project that never got funding via major funding vehicles on Cardano.
+
 ## Reviewing pre-vote
 
 TBD
