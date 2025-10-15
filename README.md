@@ -56,3 +56,32 @@ TBD
 ## Reviewing milestones
 
 TBD
+
+--------------------------------
+
+# Random shower ideas
+
+- projects are selected by experts, payed 5K ada for an estimated 1 week of review work.
+- something like 12 experts, must evaluate all projects in the category to avoid sub-selection bias. (roughly 60k ada in total expert selection fees)
+- experts must declare conflict of interest, (and abstain on said projects)
+- experts are elected prior to opening the round for projects, they are elected by regular ada holders with weight proportional to ada holding.
+- experts qualification criteria TBD
+- experts must make a deposit that they will forfait if they do not do their job properly.
+- experts will have a framework to follow in order to rate the candidate projects.
+- experts selection will have weight proportional to the square root of their delegated voting power.
+- when electing experts, people must distribute their ada voting power.
+- expert may choose to withdraw in case of emergencies.
+- expert may identify projects that are considered spam/scam and disqualify them, forfaiting the project deposit.
+- projects must make a deposit of at least 1% of their ask.
+- the deposit can be higher, and when a project is chosen, they receive immediately an initial payment equivalent to their deposit.
+- They receive 50% of the rest of their funding linearly over time.
+- They receive the final 50% of the funding upon completion, with validation of the experts.
+- At any time, the experts may decide to disqualify a project, forfaiting the project deposit.
+- The deposit is recovered upon completion of the project.
+- projects must also pay a non-refundable fee, increasing with the size of the proposal (linear/quadratic/?) to improve the quality of the proposals, keep it concise and informative.
+- no project/team/individual may receive more than X% of the total fund.
+- so if they have multiple projects, and multiple are amongst the higher ranked selection by experts, only the best ones get selected, up to X% of the total fund.
+- this prevents teams to take a majority of the funds, to improve diversity.
+- At least Y% of the fund must go to teams/individuals that never received previous funding from treasury/catalyst/thisthing to encourage innovative new teams to participate.
+
+
